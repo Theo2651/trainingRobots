@@ -2,7 +2,7 @@
 This is a basic document:
 
 1) I have added something. 
-2)
+2) I added more awesome stuff.
 3)
 4)
 5)
