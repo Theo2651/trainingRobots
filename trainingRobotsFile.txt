@@ -2,8 +2,13 @@
 This is a basic document:
 
 1) I have added something. 
+<<<<<<< Updated upstream
 2) I added more awesome stuff.
 3)
+=======
+2) I added more awesome stuff!!!
+3)  The second branch changes.
+>>>>>>> Stashed changes
 4)
 5)
 6)
