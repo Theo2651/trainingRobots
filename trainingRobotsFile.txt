@@ -4,7 +4,7 @@ This is a basic document:
 1) I have added something. 
 2) I added more awesome stuff!!!
 3)  The second branch changes.
-4) Some stuff I changed on line 4. Trying to make a pull request. 
+4) Changing line 4 to create a conflict.  
 5)
 6)
 7)
