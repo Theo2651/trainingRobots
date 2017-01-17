@@ -4,7 +4,7 @@ This is a basic document that we'll work on:
 1) 
 2) 
 3) Noah
-4) 
+4) ligne quatre Thierry
 5) Hi, this line was edited by Audrey.
 6) Jasper qwertyuiop Eddie
 7)
