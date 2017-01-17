@@ -1,10 +1,10 @@
 
-This is a basic document:
+This is a basic document that we'll work on:
 
-1) I have added something. 
-2) I added more awesome stuff!!!
-3)  The second branch changes.
-4) Changing line 4 to create a conflict.  
+1) 
+2) 
+3) 
+4) 
 5)
 6)
 7)
